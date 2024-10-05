@@ -1,0 +1,38 @@
+{
+    "activites": [
+        {
+            "date": "2024-10-05",
+            "lieu": "Rennes",
+            "description": "Randonnée",
+            "participants": 5,
+            "appreciations": [
+                {
+                    "pseudo": "JohnDoe",
+                    "note": 4,
+                    "commentaire": "Belle activité !",
+                    "image_profil": "https://via.placeholder.com/40"
+                },
+                {
+                    "pseudo": "JaneDoe",
+                    "note": 5,
+                    "commentaire": "Superbe expérience !",
+                    "image_profil": null
+                }
+            ]
+        },
+        {
+            "date": "2024-10-12",
+            "lieu": "Nantes",
+            "description": "Atelier cuisine",
+            "participants": 8,
+            "appreciations": [
+                {
+                    "pseudo": "CookMaster",
+                    "note": 5,
+                    "commentaire": "J'ai adoré partager mes recettes !",
+                    "image_profil": "https://via.placeholder.com/40"
+                }
+            ]
+        }
+    ]
+}
